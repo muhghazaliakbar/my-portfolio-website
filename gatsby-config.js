@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Muh Ghazali Akbar',
     description:
-      'Muh Ghazali Akbar a software engineer based in Bali, Indonesia. Specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Muh Ghazali Akbar is a software engineer based in Bali, Indonesia. Specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
     siteUrl: 'https://ghali.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@muhghazaliakbar',
