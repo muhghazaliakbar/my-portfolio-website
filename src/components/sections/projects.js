@@ -172,7 +172,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection id="projects">
-      <h2 ref={revealTitle}>Other Noteworthy Projects</h2>
+      <h2 ref={revealTitle}>Some Things I’ve Built</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         view the archive
