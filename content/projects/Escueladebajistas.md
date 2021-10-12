@@ -15,4 +15,4 @@ company: "Escuela de Música"
 showInProjects: true
 ---
 
-Escuela de Bajistas is a website for bass online courses built with [Laravel PHP Framework](https://laravel.com) and [Next JS](https://nextjs.org)
+Escuela de Bajistas is a website for online bass school built with [Laravel PHP Framework](https://laravel.com) and [Next JS](https://nextjs.org)

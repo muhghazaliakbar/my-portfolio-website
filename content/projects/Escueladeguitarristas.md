@@ -14,4 +14,4 @@ tech:
 company: "Escuela de Música"
 showInProjects: true
 ---
-Escuela de Guitarristas is a website for bass online courses built with [Laravel PHP Framework](https://laravel.com) and [Next JS](https://nextjs.org)
+Escuela de Guitarristas is a website for online guitar school built with [Laravel PHP Framework](https://laravel.com) and [Next JS](https://nextjs.org)
