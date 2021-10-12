@@ -11,6 +11,7 @@ tech:
   - Laravel
   - React
   - GraphQL
+  - Tailwind CSS
 company: "Escuela de Música"
 showInProjects: true
 ---
