@@ -137,9 +137,13 @@ const About = () => {
     'JavaScript (ES6+)',
     'HTML & (S)CSS',
     'Laravel',
+    'GraphQL',
     'React',
-    'Vue',
+    'Vue.js',
+    'Next.js (React)',
+    'Nuxt (Vue)',
     'Tailwind CSS',
+    'Chakra UI'
   ];
 
   return (
