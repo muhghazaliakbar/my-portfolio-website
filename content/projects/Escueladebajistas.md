@@ -7,11 +7,12 @@ ios: ''
 android: ''
 tech:
   - PHP
-  - JavaScript
+  - TypeScript
   - Laravel
-  - Vue
-company: 'Palaua and Sons PTE .LTD'
+  - React
+  - GraphQL
+company: "Escuela de Música"
 showInProjects: true
 ---
 
-Escuela de Bajistas is a website for bass online courses built with [Laravel PHP Framework](https://laravel.com) and [Vue.js](https://vuejs.org)
+Escuela de Bajistas is a website for bass online courses built with [Laravel PHP Framework](https://laravel.com) and [Next JS](https://nextjs.org)

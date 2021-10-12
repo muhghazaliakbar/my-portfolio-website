@@ -10,6 +10,7 @@ tech:
   - JavaScript
   - Laravel
   - Vue
+  - Next JS
 company: 'Palaua and Sons PTE .LTD'
 showInProjects: true
 ---
